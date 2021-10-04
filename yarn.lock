@@ -5280,7 +5280,7 @@ nanomatch@^1.2.9:
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
 
-native-base@3.2.0:
+native-base@^3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/native-base/-/native-base-3.2.0.tgz#03cc51bf3624141833103330eae8f9b9fd7bbf35"
   integrity sha512-s7lM0/xupz3AMVMMl59z8yl15T2cbnR662gwgXXGOpiFk10dR61jP3q8kGap+GRF8lRssKAZkN/a0OqV/JFAHA==
